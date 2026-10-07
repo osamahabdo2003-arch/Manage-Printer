@@ -1,0 +1,42 @@
+{
+    "HP Color LaserJet Pro M479 [6B1A90]": {
+        "name": "415A",
+        "qty": "0"
+    },
+    "\\\\192.168.1.119\\ricoh mp c2004 pcl 6": {
+        "name": "C2000H",
+        "qty": "4"
+    },
+    "\\\\192.168.1.154\\HP Color LaserJet Pro M479 PCL-6 (V4) (Network)": {
+        "name": "415A",
+        "qty": "0"
+    },
+    "\\\\192.168.1.174\\ricoh m c2000 pcl 6": {
+        "name": "C2000H",
+        "qty": "4"
+    },
+    "\\\\192.168.1.183\\HP Laser 103 107 108 (Copy 1)": {
+        "name": "106A",
+        "qty": "2"
+    },
+    "\\\\192.168.1.183\\HP ColorLaserJet MFP M278-M281 PCL-6 (V4) (Network)": {
+        "name": "203A",
+        "qty": "4"
+    },
+    "\\\\Log-02\\ricoh m c2000 pcl 6": {
+        "name": "203A",
+        "qty": "4"
+    },
+    "\\\\192.168.1.133\\HP LaserJet M109-M112": {
+        "name": "150A",
+        "qty": "3"
+    },
+    "\\\\192.168.1.176\\HP LaserJet M101-M106": {
+        "name": "17A",
+        "qty": "2"
+    },
+    "\\\\192.168.1.144\\HP Laser MFP 131 133 135-138": {
+        "name": "106A",
+        "qty": "2"
+    }
+}
